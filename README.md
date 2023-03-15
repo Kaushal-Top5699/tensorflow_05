@@ -1,1 +1,2 @@
-# tensorflow_05
+# Aggregation and Positional Min-Max
+Aggretaion has four form namely Minma, Maxima, Mean and Sum whereas, postional min-max returns the index of max and min value within our tensor which is always helpful because the output values or matrix we get after our network has done all the havey work the matrix we get is collections of probailities therfore, highest value indicated or returned is networks prediction.
